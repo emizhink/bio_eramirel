@@ -5,3 +5,4 @@ Me gusta el futbol, los videojuegos, y escuchar musica.
 Estoy en Everis desde hace ya 2 años.
 
 -Incidencia en produccion
+-Corregido error para hotfix de produccion
