@@ -3,3 +3,6 @@ Me llamo Emiliano Ramirez Lugo, soy Originario del estado de Querétaro, México
 Tengo 24 años de edad, naci un 25 de abril de 1995 Soy Ingeniero en Sistemas Computacionales
 Me gusta el futbol, los videojuegos, y escuchar musica.
 Estoy en Everis desde hace ya 2 años.
+
+
+-Corregido error para hotfix de produccion
